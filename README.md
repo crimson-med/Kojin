@@ -1,6 +1,22 @@
 # Introduction
 
+---
+
 ## Etymology
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Kojin comes from the Japanese god of fire (Kojin-xxxxx). This name was chosen for this documentation as we will mainly be using **Firebase**
 
+## What you will need
+
+We will be using
+ - React Native 0.50.4
+ - React Native FCM (Firebase Cloud Messaging)
+ - Firebase
+
+ ## The Goal
+
+ In this document the goal is to see how through sending one notification through Firebase we can run specific function without having to handle intents.
+
+>Simplicity is key
+
+<Icon id="arrow-down" />
