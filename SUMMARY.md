@@ -6,4 +6,5 @@
 
 * [Title Page](title-page.md)
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [Environment Setup](chapter1.md)
+* [The Principle](chapter1.md)
