@@ -4,7 +4,7 @@
 
 First lets create a Firebase account here:
 
-**link**
+[**You need a Googgle Account**](https://accounts.google.com/signin/v2/identifier?passive=true&continue=https%3A%2F%2Ffirebase.google.com%2F%3Frefresh%3D1&service=ahsid&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
 
 Then configure an API Key if it's not done by default.
 
