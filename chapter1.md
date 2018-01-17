@@ -40,5 +40,27 @@ react-native run-android
 
 If you want to use IOS Simulator you can simply run the command:
 
-    react-native run-ios
+```
+react-native run-ios
+```
+
+## Configuring Firebase
+
+For this project we will use the React Native Firebase module developed by **evollu**.
+
+To install the package:
+
+```
+npm install react-native-fcm --save
+```
+
+Then run the linking command:
+
+```
+react-native link react-native-fcm
+```
+
+Then just follow the steps described in the **Readme.md**. We will follow the Android configuration \([Introduction](/README.md)\)
+
+[https://github.com/evollu/react-native-fcm\#configure-firebase-console](https://github.com/evollu/react-native-fcm#configure-firebase-console)
 
